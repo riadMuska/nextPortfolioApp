@@ -13,7 +13,7 @@ const projects = [
     image: '/img/p2.jpg',
     link: 'https://github.com/riadMuska/BlockChainSimulation',
   },
-  // Aggiungi altri progetti qui
+  
 ];
 
 const Projects: React.FC = () => {
