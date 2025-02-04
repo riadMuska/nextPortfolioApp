@@ -14,7 +14,7 @@ body {
   background-color: var(--background-light);
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  transition: background-color 0.3s, color 0.3s; /* Aggiungi una transizione per un cambio tema più fluido */
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .dark body {
